@@ -1,4 +1,6 @@
 
+#Time complexity: O(m+n)
+#Space complexity: m+n
 def func(list1,list2,m,n):
 
     list3=[None]*(m+n)
