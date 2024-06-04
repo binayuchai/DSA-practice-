@@ -1,0 +1,14 @@
+Given a binary string, count minimum number of subsequences to be removed to make it an empty string.
+
+Examples : 
+
+Input: str[] = "10001"
+Output: 1
+Since the whole string is palindrome, 
+we need only one removal.
+
+Input: str[] = "10001001"
+Output: 2
+We can remove the middle 1 as first 
+removal, after first removal string
+becomes 1000001 which is a palindrome

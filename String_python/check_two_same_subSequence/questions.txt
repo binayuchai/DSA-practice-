@@ -1,0 +1,12 @@
+Check if two same sub-sequences exist in a string or not
+
+Given a string, the task is to check if there exist two equal sub-sequences in the given string. Two sub-sequences are said to be equal if they have the same characters arranged in the same lexicographical order but the position of characters differs from that in the original string. 
+
+Examples: 
+ 
+
+Input: str = “geeksforgeeks” 
+Output: YES 
+Two possible sub-sequences are “geeks” and “geeks”. 
+Input: str = “bhuvan” 
+Output: NO
