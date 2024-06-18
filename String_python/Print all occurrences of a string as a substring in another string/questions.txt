@@ -1,0 +1,10 @@
+Given two strings, str1 and str2, the task is to print the indices(Consider, indices starting from 0) of the occurrence of str2 in str1. If no such index occurs, print “NONE”.
+
+Examples:
+
+Input : GeeksforGeeks
+        Geeks
+Output : 0 8
+Input : GFG
+        g
+Output : NONE

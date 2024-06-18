@@ -1,0 +1,14 @@
+Find all the patterns of “1(0+)1” in a given string (General Approach)
+
+
+A string contains patterns of the form 1(0+)1 where (0+) represents any non-empty consecutive sequence of 0’s. Count all such patterns. The patterns are allowed to overlap.
+
+Note : It contains digits and lowercase characters only. The string is not necessarily a binary. 100201 is not a valid pattern. 
+
+Examples: 
+
+Input : 1101001
+Output : 2
+
+Input : 100001abc101
+Output : 2
